@@ -29,3 +29,8 @@ Project Link:
 
 # Sample images of the project :
 
+![Screenshot (124)](https://user-images.githubusercontent.com/109466115/188232685-756e13af-4f8e-46ae-a910-86263f11b4ab.png)
+![Screenshot (125)](https://user-images.githubusercontent.com/109466115/188232688-55055829-8845-4ebc-bf0b-612db65c204f.png)
+![Screenshot (126)](https://user-images.githubusercontent.com/109466115/188232691-c4333f00-6779-4639-a11f-d44d8eb77992.png)
+![Screenshot (127)](https://user-images.githubusercontent.com/109466115/188232695-18c3fff9-63fc-4479-a398-f791af45663e.png)
+![Screenshot 2022-09-03 at 02-07-13 Power Virtual Agents](https://user-images.githubusercontent.com/109466115/188232709-43f74cef-a2c7-4e5a-89c4-872e7b3732cf.png)
