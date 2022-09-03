@@ -27,6 +27,12 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 
 Project Link:
 
+# For Deployment the Azure Portal is NOT WORKING:
+
+![image](https://user-images.githubusercontent.com/109466115/188253228-b09e2381-ae49-4e3b-80fe-a616cc7cb9ad.png)
+
+# so i have deployed in Heroku Please Consider it:
+
 # Sample images of the project :
 
 ![Screenshot (124)](https://user-images.githubusercontent.com/109466115/188232685-756e13af-4f8e-46ae-a910-86263f11b4ab.png)
